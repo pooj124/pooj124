@@ -1,10 +1,10 @@
-### hi, i’m poojitha 🤸🏻‍♀️
+### hi, i’m poojitha 👋
 
-i like making things that are useful, calm, and a little bit clever.
+I like building things that are practical, thoughtfully designed, and quietly powerful.
 
-started in testing, now slowly building my way through development, cloud, and a bit of ai.  
-curious about how things work — and how to make them better.  
+started in testing, now exploring the other side — development, cloud, and a bit of ai.  
+curious about how systems work, and how to make them simpler, smoother, and more intentional.  
 
-learning full stack, building mini tools, and eventually, maybe something with robots 🤖
+currently learning full stack, building small tools, and slowly exploring robotics and edge tech 🤖
 
-mostly here to learn, build, and enjoy the process.  
+mostly here to learn, build, and enjoy the process.
