@@ -1,4 +1,4 @@
-### hi, i’m poojitha 👋
+### 🤸🏻‍♀️🌱✨ Heyaaa!!
 
 I like building things that are practical, thoughtfully designed, and quietly powerful.
 
